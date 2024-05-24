@@ -1,0 +1,22 @@
+[
+  {
+    "ID": 2,
+    "Type": "военный",
+    "Model": "Herpa",
+    "Crew": [
+      {
+        "Name": "Имя: f",
+        "FirstName": "Фамилия: zfgzs",
+        "Patronomic": "Отчество: sfg",
+        "Position": "Должность: пилот",
+        "Age": 0,
+        "Experience": "Стаж: больше пяти лет стажа"
+      }
+    ],
+    "PassengerCapacity": 160,
+    "YearOfManufacture": 2005,
+    "PayloadCapacity": 34,
+    "LastMaintenanceDate": "2024-04-10T00:52:24.8118237+03:00",
+    "ManufacturerInfo": "Название: sd, Страна: a, Год основания: 1999, Типы самолетов: пассажирский, \r\n"
+  }
+]
